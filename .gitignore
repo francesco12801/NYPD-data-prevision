@@ -1,0 +1,7 @@
+*.pkl
+*.csv
+*.json
+*.jsonl
+*.jsonl.gz
+*.jsonl.gz.part
+*.jsonl.gz.part.
